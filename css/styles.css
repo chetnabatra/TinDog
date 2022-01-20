@@ -1,0 +1,215 @@
+#title{
+  background-color: #5c5470;
+
+}
+h1{
+
+  color:#dbd8e3s ;
+}
+#features{
+  background-color: #f9f6f7;
+}
+#testimonials{
+background-color: #776d8a;
+}
+#press{
+  background-color: #776d8a;
+}
+#pricing{
+  background-color: #f9f6f7;
+}
+#cta{
+
+  background-color: #776d8a;
+}
+
+@media (min-width: 100px) and (max-width: 1000px) {
+
+
+  .imagep {
+    position:static;
+
+}
+#title{
+
+text-align: center;
+font-size: 4.5rem;
+font-family: 'Abril Fatface', cursive;
+}}
+
+#cta{
+
+text-align:center;
+  padding: 7% 15%;
+
+
+}
+
+
+  h1 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 4.3rem;
+  }
+
+.he{
+font-family: 'Abril Fatface', cursive;
+font-size: 3rem;
+color: white;
+
+}
+  #testimonials {
+
+    text-align: center;
+    color: #e8e8e8;
+
+  }
+
+  .download-button {
+
+    margin: 5% 3% 5% 0;
+  }
+
+  .imagep {
+    width: 60%;
+    transform: rotate(35deg);
+    right: 35%;
+    position: absolute;
+  }
+#footer{
+padding: 7% 15%;
+text-align: center;
+background-color: #f9f6f7;
+
+
+}
+
+  h3 {
+    font-family: 'Josefin Sans-bold', sans-serif;
+
+    color: #5c5470;
+  }
+
+  .navbar {
+    padding: 0 0 4.5rem;
+  }
+
+  .container-fluid {
+    padding: 3% 15% 7%;
+    padding-bottom: 100px;
+  }
+
+  .navbar-brand {
+    font-size: 2rem;
+    font-style: bold;
+    color: white;
+  }
+
+  p {
+    color: #687980;
+    font-family: sans-serif;
+    font-size: 21px;
+  }
+
+  body {
+    font-family: 'Abril Fatface', cursive;
+  }
+
+  .nav-item {
+    padding: 0 18px;
+  }
+
+  .nav-link {
+    font-size: 1.5rem;
+    color: #fffafa;
+    font-weight: thin;
+    font-family: 'Abril Fatface-light';
+
+  }
+
+  .ic {
+    color: #a58faa;
+    margin-bottom: 2px;
+  }
+
+  .ic:hover {
+    color: #5c5470;
+  }
+
+  #features {
+    position: relative;
+    padding: 7% 15%;
+
+  }
+
+  .feature-box {
+    text-align: center;
+
+    padding: 5%;
+  }
+
+  h2 {
+    font-family: 'Abril Fatface-bold';
+    font-size: 3.8rem;
+
+  }
+
+  #pricing {
+    text-align: center;
+  }
+
+  .test {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+    width: 150px;
+    height: 150px;
+
+  }
+
+  #press {
+    text-align: center;
+    padding-bottom: 3%;
+  }
+
+  .pp {
+    width: 15%;
+    margin: 20px 20px 50px;
+
+  }
+
+  .pri {
+    color: #5c5470;
+  }
+
+  .carousel-item {
+    padding: 7% 15%;
+  }
+
+  .btn-primary {
+    background-color: #a58faa;
+    border-color: #5c5470;
+  }
+
+  .pricol {
+    padding: 3% 2%;
+  }
+
+  .card-body {
+    background-color: #f4f9f9;
+  }
+
+  .card-header {
+    background-color: #f4f9f9;
+    border-color: #5c5470;
+  }
+.v{
+
+color: #5c5470;
+margin: 15px;
+
+}
+  .btn:hover {
+    border-color: #a58faa;
+    background-color: #5c5470;
+    color: #a58faa;
+  }
